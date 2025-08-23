@@ -11,11 +11,17 @@ The MultiCloud Real-Time Pricing Explorer is a full-stack application designed t
 🚀 Key Features
 
 ✅ Multi-Cloud Support – Compare pricing across AWS, Azure, and GCP
+
 ✅ Dynamic Region Selection – Region list fetched directly from cloud APIs
+
 ✅ Dynamic Instance Types – Instance types depend on the chosen region + provider
+
 ✅ Real-Time Pricing – Always up-to-date costs without manual updates
+
 ✅ Interactive Frontend – Simple, user-friendly UI built with React + Vite
+
 ✅ Extensible API Layer – Backend powered by Node.js/Express, easy to extend
+
 ✅ Use Cases – Cost analysis, learning cloud services, comparing providers
 
 🛠️ Tech Stack
