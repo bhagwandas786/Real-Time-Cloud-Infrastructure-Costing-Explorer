@@ -55,11 +55,16 @@ Once the region and instance type are selected, the backend queries the pricing 
 Result: Live, up-to-date cost per hour/month is displayed.
 
 📂 Project Structure
-<img width="724" height="541" alt="image" src="https://github.com/user-attachments/assets/f9c2731a-e0ed-4a79-8fc9-89ad04090db9" />
+
+<img width="1710" height="487" alt="image" src="https://github.com/user-attachments/assets/f8457cf3-bb04-41dd-9091-d01e27753283" />
+
+
+
 
 
 📸UI
 <img width="1919" height="1079" alt="Screenshot 2025-08-19 051840" src="https://github.com/user-attachments/assets/a2735f36-fbdc-426f-90bc-e0e7c5bfb3c5" />
+
 
 
 Select Provider → Select Region → Select Instance Type → View Pricing
