@@ -97,10 +97,15 @@ Frontend runs at: http://localhost:5173/
 Backend API runs at: http://localhost:5000/
 
 🔮 Future Improvements
+
 📊 Add graphs & cost comparison charts (e.g., AWS vs Azure vs GCP)
+
 💾 Enable saving/exporting comparison results
+
 🌍 Support more providers (Oracle, DigitalOcean, Alibaba Cloud)
+
 🧮 Add advanced filters (CPU, RAM, GPU, storage optimized)
+
 🔐 OAuth for secure user access
 
 🤝 Contributing
