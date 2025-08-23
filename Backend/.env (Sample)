@@ -1,0 +1,14 @@
+PORT=5000
+AWS_ACCESS_KEY_ID=AKIA47#########
+AWS_SECRET_ACCESS_KEY=7FFvwNtEI33zDE#############
+AWS_REGION=us-east-1
+CACHE_TTL=3600
+DEFAULT_AWS_REGION=us-east-1
+DEFAULT_AZURE_REGION=eastus
+DEFAULT_GCP_REGION=us-central1
+AZURE_TENANT_ID=33aa333e-f902-####-####-####-####
+AZURE_CLIENT_ID=0230f8cc-d298-43ee-ac76-##############
+AZURE_CLIENT_SECRET=YwE8Q~Fdc-Dd35w43Yo9p##################
+AZURE_SUBSCRIPTION_ID=ec90b0ad-33ca-4a69-#######################
+GOOGLE_APPLICATION_CREDENTIALS=./massive-hexagon-286009-2e1bb1f0ddc3.json
+GCP_PROJECT_ID=massive-hexagon-286009
