@@ -55,21 +55,8 @@ Once the region and instance type are selected, the backend queries the pricing 
 Result: Live, up-to-date cost per hour/month is displayed.
 
 📂 Project Structure
-├── Backend/            # Node.js + Express backend APIs
-│   ├── index.js
-│   ├── package.json
-│   └── ...
-│
-├── Frontend/           # React + Vite frontend
-│   ├── src/
-│   │   ├── App.jsx
-│   │   ├── components/
-│   │   └── ...
-│   ├── public/
-│   ├── package.json
-│   └── ...
-│
-└── README.md
+<img width="724" height="541" alt="image" src="https://github.com/user-attachments/assets/f9c2731a-e0ed-4a79-8fc9-89ad04090db9" />
+
 
 📸UI
 <img width="1919" height="1079" alt="Screenshot 2025-08-19 051840" src="https://github.com/user-attachments/assets/a2735f36-fbdc-426f-90bc-e0e7c5bfb3c5" />
