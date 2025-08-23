@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-ec2": "^3.868.0",
+    "@aws-sdk/client-pricing": "^3.864.0",
+    "@azure/arm-compute": "^23.0.0",
+    "@azure/arm-costmanagement": "^1.0.0-beta.1",
+    "@azure/arm-subscriptions": "^5.1.0",
+    "@azure/identity": "^4.11.1",
+    "@google-cloud/compute": "^6.2.0",
+    "axios": "^1.11.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "google-auth-library": "^10.2.1",
+    "googleapis": "^156.0.0",
+    "node-cache": "^5.1.2"
+  }
+}

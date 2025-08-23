@@ -1,0 +1,20 @@
+# Ignore node modules
+node_modules/
+
+# Ignore environment variables file
+.env
+massive-hexagon-286009-2e1bb1f0ddc3.json
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore any build output folders if hain
+dist/
+build/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
