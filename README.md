@@ -84,9 +84,10 @@ cd ../Frontend
 npm install
 npm run dev
 
-4️⃣ Access the App
-Frontend runs at: http://localhost:5173/
-Backend API runs at: http://localhost:5000/
+4️⃣ Temprarory Local Host Deployment Access the App
+Frontend runs at: https://player-wp-patterns-harry.trycloudflare.com
+Backend API runs at: https://utc-borders-acm-interested.trycloudflare.com
+
 
 🔮 Future Improvements
 
