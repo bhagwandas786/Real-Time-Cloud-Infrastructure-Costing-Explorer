@@ -86,8 +86,7 @@ npm run dev
 
 4️⃣ Temprarory Local Host Deployment Access the App
 Frontend runs at: https://belgium-superintendent-hunter-express.trycloudflare.com 
-Backend API runs at: https://utc-borders-acm-interested.trycloudflare.com
-
+Backend API runs at:  https://genuine-wines-ga-threats.trycloudflare.com 
 
 🔮 Future Improvements
 
