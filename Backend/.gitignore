@@ -12,9 +12,3 @@ logs/
 # Ignore any build output folders if hain
 dist/
 build/
-
-# Editor and OS files
-.vscode/
-.idea/
-.DS_Store
-Thumbs.db
