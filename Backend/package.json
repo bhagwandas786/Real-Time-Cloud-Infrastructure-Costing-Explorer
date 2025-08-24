@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["cloud", "pricing", "AWS", "Azure", "GCP", "multicloud", "real-time", "API", "cost-optimization"]
+  "author": "Bunny & Bilal",
   "license": "ISC",
   "dependencies": {
     "@aws-sdk/client-ec2": "^3.868.0",
